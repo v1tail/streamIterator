@@ -1,0 +1,14 @@
+{
+  "name": "stream-iterator",
+  "version": "1.0.0",
+  "description": "My small util for stream iteration via separator"
+  "author": "Vitaliy Zaika <vitaliyzaika666@gmail.com>",
+  "license": "UNLICENSED",
+  "engines": {
+    "node": ">=10"
+  },
+  "devDependencies": {
+  },
+  "dependencies": {
+  }
+}
